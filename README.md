@@ -85,15 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Piyush2627/Piyush2627/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/JznX295x/Profile-New-Linked-In-Banner.png"  />
-</div>
-
-###
 <!--
 **Piyush2627/Piyush2627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
