@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="28" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="28" alt="whatsapp logo"  />
-  <a href="www.linkedin.com/in/piyush-dahiwadkar-34a666267" target="_blank">
+  <a href="www.linkedin.com/in/piyush-dahiwadkar-34a666267/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
   </a>
 </div>
