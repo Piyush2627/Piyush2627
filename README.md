@@ -73,7 +73,9 @@
 </div>
 
 ###
-
+<div> 
+  <img src="https://i.ibb.co/PM1SW4X/exceptrea-gamerroom-1-revisioned-0.gif">
+</div>
 <h3 align="left">Fun Fact</h3>
 
 ###
