@@ -64,6 +64,9 @@
 </div>
 
 ###
+<div align="center"> 
+  <img height="500" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush2627&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
@@ -73,9 +76,7 @@
 </div>
 
 ###
-<div> 
-  <img height="500" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
-</div>
+
 <h3 align="left">Fun Fact</h3>
 
 ###
