@@ -39,15 +39,15 @@
  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on React JS / Next JS
+- 🌱 I’m currently learning Next Js
+- 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: piyushdahiwadkar89@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: I have a passion for design and drawing! In my free time, I enjoy creating digital art and illustrations, often experimenting with different styles and techniques to enhance my creativity
+<br clear="both">
 </div>
 
 <div align="center">
@@ -153,13 +153,3 @@ Here are some ideas to get you started:
     alt="vscode logo"
   />
 </div>
-
-###
-
-<div align="center">
-  <img height="363" src="https://i.gifer.com/fyrS.gif" />
-</div>
-
-###
-
-###
