@@ -6,8 +6,7 @@
 
 <br clear="both" />
 
-<img align="left" height="150" src="https://i.gifer.com/5Mys.gif" />
-
+ 
 ###
 
 <h4 align="left">
