@@ -39,7 +39,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React JS / Next JS
-- 🌱 I’m currently learning Next Js, Zustand, Tailwind motion
+- 🌱 I’m currently learning Zustand, Tailwind motion,python
 - ⚒️ I,m currrntly Making a secret projects
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with ...
