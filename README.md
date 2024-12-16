@@ -39,9 +39,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React JS / Next JS
-- 🌱 I’m currently learning Zustand, Tailwind motion,python
+- 🌱 I’m currently learning Zustand, Tailwind motion,python,typescript
 - ⚒️ I,m currrntly Making a secret projects
-- 👯 I’m looking to collaborate on Projects
+- 👯 I’m looking to collaborate on Projects 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Games 
 - 📫 How to reach me: piyushdahiwadkar89@gmail.com
